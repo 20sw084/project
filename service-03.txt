@@ -1,0 +1,16 @@
+service 0j_18h04m18s LOUIS : Millionaire ;
+quoi [0j_00h20m02s,0j_05h23m16s] ;
+qui [0j_18h03m37s,0j_18h04m46s] ;
+service 0j_18h00m35s WILLIAM : Champagne_julep ;
+service 0j_18h00m41s WILLIAM : Mandarin ;
+quoi [0j_18h01m22s,0j_18h04m03s] ;
+qui [0j_18h03m18s,0j_18h07m37s] ;
+presences [0j_18h03m40s,0j_18h05m46s] ;
+presences [0j_18h04m09s,0j_18h04m49s] ;
+service 1j_18h09m00s LOUIS : Aristocrate ;
+quoi [1j_18h11m50s,1j_18h17m10s] ;
+quoi [1j_18h12m50s,1j_18h15m56s] ;
+qui [1j_18h05m13s,1j_18h07m54s] ;
+qui [1j_18h08m01s,1j_18h17m23s] ;
+presences [1j_18h07m15s,1j_18h17m54s] ;
+presences [1j_18h09m42s,1j_18h20m54s] ;
